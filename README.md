@@ -216,10 +216,11 @@
 
 # ERD
 
+<div align="center">
+
 ## Uniqon
 
-<div align="center">
-<img src="img/erd/uniqon_erd.png"/ width="600">
+<img src="img/erd/uniqon_erd.png" width="600">
 
 ## Diti
 

@@ -151,7 +151,7 @@
 
 # 시스템 아키텍처
 
-<img src="img/아키텍처.png">
+<img src="img/아키텍처.png" width="80%">
 
 # ⚙ 기능소개
 

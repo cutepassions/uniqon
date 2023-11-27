@@ -6,14 +6,22 @@
 
 </div>
 
-# 📚 서비스 소개
+<div align="center">
+
+## 📚 서비스 소개
+
+</div>
 
 - 웹 3.0은 사용자 중심의 인터넷 환경으로, 개인화된 서비스와 데이터의 소유권이 강조됩니다. 이러한 환경에서 **NFT (Non-Fungible Token)** 는 디지털 자산의 고유성과 소유권을 증명할 수 있는 기술로 주목받고 있습니다.
 - 이러한 배경에서 시작한 저희의 **희귀동물 NFT 거래 플랫폼**은 본인이 소유한 희귀동물을 NFT로 발행하여 거래함으로써, 디지털 컨텐츠의 가치를 높일 수 있으며,희귀동물의 보호와 관리에 대한 관심을 높이고, 생태계를 활성화할 수 있습니다. 또한, 블록체인 기술을 활용하여 신뢰성을 높일 수 있습니다.
 
-# 🙎🏻‍♂️🙎🏻‍♀️ 팀원 소개
+<div align="center">
 
-## Front-End
+## 🙎🏻‍♂️🙎🏻‍♀️ 팀원 소개
+
+</div>
+
+### Front-End
 
 <table align="center">
     <tr align="center">
@@ -52,7 +60,7 @@
     </tr>
 </table>
 
-## Back-End
+### Back-End
 
 <table align="center">
     <tr align="center">
@@ -91,35 +99,35 @@
     </tr>
 </table>
 
-# 🗓 개발 기간
+## 🗓 개발 기간
 
 - 2023.08.23 ~ 10.06 (6주)
 
-# 💻 사용 서버
+## 💻 사용 서버
 
-## 웹 서버
+### 웹 서버
 
 - AWS Lightsail ($80)
 
-## Front-End
+### Front-End
 
 - React
 
-## Gateway
+### Gateway
 
 - Nodejs
 
-## Back-End
+### Back-End
 
 - Spring Boot
 
-## AI
+### AI
 
 - FastAPI
 
-# 🛠 사용 기술 및 라이브러리
+## 🛠 사용 기술 및 라이브러리
 
-## Front-End
+### Front-End
 
 <img src="https://img.shields.io/badge/react [18.2.0]-61DAFB?style=flat&logo=react&logoColor=black" />
 <img src="https://img.shields.io/badge/zustand [4.4.1]-61DAFB?style=flat&logo=zustand&logoColor=black" />
@@ -128,7 +136,7 @@
 <img src="https://img.shields.io/badge/web3_token [1.0.6]-F16822?style=flat&logo=web3-token&logoColor=white" />
 <img src="https://img.shields.io/badge/three.js [0.154.0]-000000?style=flat&logo=threedotjs&logoColor=white" />
 
-## Back-End
+### Back-End
 
 <img src="https://img.shields.io/badge/Java [17]-007396?style=flat&logo=Java&logoColor=white" />
 <img src="https://img.shields.io/badge/springboot [3.1.3]-6DB33F?style=flat&logo=springboot&logoColor=white" />
@@ -137,27 +145,32 @@
 <img src="https://img.shields.io/badge/mysql [8.0.33]-4479A1?style=flat&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/swagger [2.2.0]-85EA2D?style=flat&logo=swagger&logoColor=white" />
 
-# ERD
+## ERD
+
+### Uniqon
 
 <div align="center">
-
-## Uniqon
 
 <img src="img/erd/uniqon_erd.png" width="600">
 
-## Diti
+</div>
+
+### Diti
+
+<div align="center">
 
 <img src="img/erd/diti_erd.png">
 
-# 시스템 아키텍처
+</div>
+
+## 시스템 아키텍처
 
 <img src="img/아키텍처.png" width="80%">
 
-# ⚙ 기능소개
+## ⚙ 기능소개
 
-## DITI (Decentralized Identity Trust Infrastructure)
+### DITI (Decentralized Identity Trust Infrastructure)
 
-<div align="center">
 <img src="img/diti2.png" width="200"/>
 
 |                         메인화면 + 로그인                          |
@@ -174,7 +187,7 @@
 
 </div>
 
-## UNIQON (UNIQUE + ON)
+### UNIQON (UNIQUE + ON)
 
 <img src="img/logo_latest.png"/>
 

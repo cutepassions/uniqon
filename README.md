@@ -100,23 +100,23 @@
 
 ### 웹 서버
 
-- AWS Lightsail ($80)
+AWS Lightsail ($80)
 
 ### Front-End
 
-- React
+React
 
 ### Gateway
 
-- Nodejs
+Nodejs
 
 ### Back-End
 
-- Spring Boot
+Spring Boot
 
 ### AI
 
-- FastAPI
+FastAPI
 
 ## 🛠 사용 기술 및 라이브러리
 
